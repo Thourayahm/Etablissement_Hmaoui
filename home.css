@@ -1,0 +1,89 @@
+body{
+    margin:0px;
+}
+#navig{
+    background-color: white;
+}
+#brand{
+    color:rgb(143, 97, 36);
+    font-weight:bold;
+}
+.navbar-collapse {
+    margin-top:7px;
+    margin-bottom:5px;
+    margin-right:100px;
+}
+#list li a {
+    color: rgb(63, 21, 130);
+}
+#carousel-id{
+    margin-bottom :70px;
+    margin-top:70px;
+}
+#fa ,#social,#phone{
+    color:black;
+}
+#item{
+    width:1350px;
+    height:500px;
+}
+#trac-42 ,#trac-45,#trac-1002,#charue,#rot,#remo{
+    width:500px;
+    height:300px;
+
+}
+#dech,#off{
+    width:500px;
+    height:300px;
+
+}
+#off8{
+    width:500px;
+    height:300px;
+}
+.partimg{
+    width:100px;
+    height:100px;
+}
+#par{
+    font-size: 20px;
+    font-weight:bold;
+    padding:20px;
+    border-style:solid;
+   border-width:1px;
+   border-radius:20px;
+   border-color:gray;
+   border-left-width: 10px;
+   border-left-color:rgb(190, 131, 62);
+}
+#couroie,#kit{
+    width:500px;
+    height:280px;
+}
+#map{
+    width:500px;
+    height:300px;
+}
+.full-container,.jumbotron{
+    margin-top:30px;
+
+}
+.rechange{
+    font-family: 'Caveat', cursive;
+}
+#pp{
+    font-size:30px;
+    color:grey;
+}
+.car{
+    display:none;
+    color:white;
+    font-weight:bolder;
+    font-size:30px;
+    width:'200px';
+
+}
+.lobst{
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+}
